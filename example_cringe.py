@@ -1,5 +1,11 @@
 #!/usr/bin/python
 
+"""
+Identitas:
+Nama: Achmadi S.T. M.T.
+Email: mekatronik.achmadi@gmail.com
+"""
+
 # impor untuk numpy
 import numpy as np
 
