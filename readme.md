@@ -15,6 +15,6 @@ Berikut langkah mengerjakan penugasan:
 
 Panitia akan melakukan pengecekan setiap fork di akun Github masing-masing.
 
-Sertifikat diutamakan untuk peserta yang menyelesaikan tugas ini.
+Sertifikat diutamakan untuk peserta yang menyelesaikan tugas ini sebelum tanggal 1 September 2022.
 
 Selamat Mengerjakan
