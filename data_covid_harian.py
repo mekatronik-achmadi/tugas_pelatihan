@@ -5,10 +5,7 @@
 """
 
 # NOTE:
-# library yang dibutuhkan : numpy, matplotlib, requests
-
-# import library numpy
-import numpy as np
+# library yang dibutuhkan : matplotlib, requests, json
 
 # import library matplotlib
 import matplotlib.pyplot as plt
