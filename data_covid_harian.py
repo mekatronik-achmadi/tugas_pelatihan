@@ -82,7 +82,7 @@ plt.subplot(414)
 # menggambar plot untuk data jumlah kasus dirawat serta memberi warna oren
 plt.plot(date, jum_dirawat, 'orange')
 # memberikan keterangan apa data yang ada pada plot tsb
-plt.legend(['Jumlah Orang yang Sembuh'])
+plt.legend(['Jumlah Orang yang Dirawat'])
 # memberikan keterangan data berdasarkan sumbu-x
 plt.xlabel("Day")
 # menampilkan plot
