@@ -23,5 +23,5 @@ y = 13 * np.cos(sudut) - 5* np.cos(2*sudut) - 2 * np.cos(3*sudut) - np.cos(4*sud
 
 # tampilkan
 plt.plot(x, y)
-plt.title('hhhhmmmmmmmmmmmmmmmmm')
+plt.title('Contoh Plot')
 plt.show()
